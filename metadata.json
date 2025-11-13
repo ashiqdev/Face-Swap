@@ -1,0 +1,5 @@
+{
+  "name": "Cinematic Photo Transformer",
+  "description": "An advanced AI visual assistant that transforms a user's photo into a cinematic, high-end image based on the visual style of a reference image. It analyzes a reference, personalizes it with the user's face, and generates a photorealistic, stylized output.",
+  "requestFramePermissions": []
+}
